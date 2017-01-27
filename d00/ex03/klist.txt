@@ -1,0 +1,5 @@
+Credentials cache: API:3387E702-3469-419C-AEC4-CC65795804A1
+        Principal: nmoiseye@42.US.ORG
+
+  Issued                Expires               Principal
+Jan 10 18:57:01 2017  Jan 11 04:57:01 2017  krbtgt/42.US.ORG@42.US.ORG
